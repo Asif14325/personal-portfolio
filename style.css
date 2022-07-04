@@ -71,3 +71,11 @@ section {
 .border2 {
     border-left: 5px solid blue;
 }
+
+footer {
+    text-align: center;
+}
+
+.exp {
+    margin-left: 30px;
+}
